@@ -4,4 +4,5 @@
 
 # This is my second commit
 
-#This Commit will create a Merge Conflict
+#This commit is from Merge-conflict Branch
+
